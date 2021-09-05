@@ -12,4 +12,10 @@
     </classes>
   </test>
  
+  </test>
+    <test name="Testcase2" >
+    <classes>
+      <class name="com.myapp.qa.Tests.Demo2"/>
+    </classes>
+  </test>
 </suite>
