@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumTest" duration-ms="40444" started-at="2021-09-05T15:12:42Z" finished-at="2021-09-05T15:13:22Z">
+    <groups>
+    </groups>
+    <test name="Testcase1" duration-ms="27907" started-at="2021-09-05T15:12:42Z" finished-at="2021-09-05T15:13:10Z">
+      <class name="com.myapp.qa.Tests.AddressbookDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.myapp.qa.Tests.AddressbookDemo@1fc37a]" name="setup" duration-ms="27857" started-at="2021-09-05T15:12:42Z" finished-at="2021-09-05T15:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.myapp.qa.Tests.AddressbookDemo -->
+    </test> <!-- Testcase1 -->
+    <test name="Testcase2" duration-ms="12499" started-at="2021-09-05T15:13:10Z" finished-at="2021-09-05T15:13:22Z">
+      <class name="com.myapp.qa.Tests.Demo1">
+        <test-method status="PASS" signature="fetchCurrentURL()[pri:0, instance:com.myapp.qa.Tests.Demo1@72da34]" name="fetchCurrentURL" duration-ms="12496" started-at="2021-09-05T15:13:10Z" finished-at="2021-09-05T15:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchCurrentURL -->
+      </class> <!-- com.myapp.qa.Tests.Demo1 -->
+    </test> <!-- Testcase2 -->
+  </suite> <!-- SeleniumTest -->
+</testng-results>
