@@ -19,7 +19,7 @@ public class Demo1 {
 		
 		// open the addressboo app on the chrome browser
 		
-		driver.get("http://3.144.24.92:49153/addressbook/");
+		driver.get("http://3.21.75.105:49153/addressbook/");
 		
 		driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
 		Thread.sleep(2000);
