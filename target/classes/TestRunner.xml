@@ -5,15 +5,14 @@
     <classes>
       <class name="com.myapp.qa.Tests.AddressbookDemo"/>
     </classes>
-  </test>
+    </test>
+  
     <test name="Testcase2" >
     <classes>
       <class name="com.myapp.qa.Tests.Demo1"/>
     </classes>
   </test>
- 
-  </test>
-    <test name="Testcase2" >
+    <test name="Testcase3" >
     <classes>
       <class name="com.myapp.qa.Tests.Demo2"/>
     </classes>
